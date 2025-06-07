@@ -46,4 +46,4 @@ void loop() {
 
 2 Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![] (https://github.com/AdrianSalasCh/PRACTICA-1-ESP32-CON-DHT11/blob/main/DHT%20sensor%20library%20for%20ESP.PNG)
+![](https://github.com/AdrianSalasCh/PRACTICA-1-ESP32-CON-DHT11/blob/main/DHT%20sensor%20library%20for%20ESP.PNG)

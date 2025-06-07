@@ -20,7 +20,7 @@ Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https:
 
 ### Instrucciones de preparación de entorno
 
-1 Abrir la terminal de programación y colocar la siguente programación:
+1. Abrir la terminal de programación y colocar la siguente programación:
 ```
 #include "DHTesp.h"
 
@@ -44,6 +44,12 @@ void loop() {
 }
 ```
 
-2 Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
+2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
 ![](https://github.com/AdrianSalasCh/PRACTICA-1-ESP32-CON-DHT11/blob/main/DHT%20sensor%20library%20for%20ESPx.PNG)
+
+3. Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
+
+
+
+
